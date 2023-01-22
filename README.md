@@ -1,5 +1,5 @@
 # Poster-Designs
-A repository to store my posters and designs.
+A repository to store my posters, slides and graphic designs.
 
 
 ## Research Poster
